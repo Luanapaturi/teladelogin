@@ -1,0 +1,11 @@
+body{
+    background-color: #9414a2;
+}
+
+.logar{
+    border: solid 5px #d367c1;
+    padding: 50px;
+    border-radius:50px ;
+    background-color: white;
+    margin-top: 50px;
+}
